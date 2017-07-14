@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-integration\2.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="bca1d3229113cccbb9ca38c1d2e6d51be318da9e">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\classes-9216fbe0095cbc6c2f74ca7c95d2c98de01fb333.jar" />
+    </item>
+    <item
+        jar="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.2.42\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\classes-b9493b6336bf33cf490f29e3d71700c0fd7b5211.jar" />
+    </item>
+    <item
+        jar="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\classes-2d67749321f1017b1a95a365fd8cde1fb0f2c118.jar" />
+    </item>
+    <item
+        jar="K:\AndroidstudioProjects\LocateMyStore2\ksoap2-android-assembly-2.4-jar-with-dependencies\ksoap2-android-assembly-2.4-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e8796346a9191a019e936210a2dc50662c57594b">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.4-jar-with-dependencies-e9cebc9862b6fb72729e64609f6710417e7133b3.jar" />
+    </item>
+    <item
+        jar="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\classes-bd9b7ad31a1eb8d6bb263834e3d59497c93ece35.jar" />
+    </item>
+    <item
+        jar="C:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-6057193a846dca8e21861e724e029d915750bd39.jar" />
+    </item>
+    <item
+        jar="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\classes-a0ce036d8f513eb4f8688b6263ae5a16a2870fe9.jar" />
+    </item>
+    <item
+        jar="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\classes-ff62561e1f7d5158ddaac6192579e589f17bb4e3.jar" />
+    </item>
+    <item
+        jar="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\2.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="64380fc4876a34f3f97cc7e59ef3182543624231">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\classes-c75aea94186961dd97a66f63f526e717a539ab5c.jar" />
+    </item>
+    <item
+        jar="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8a4872fb4d507a31ac0603ca7669b12365c1300a.jar" />
+    </item>
+    <item
+        jar="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-legacy\2.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7a3b553d1697b52f13f8e7b7bf7ea1e20aabdbf4">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\classes-53fd0103ff3a3cc5afced485d0242773b8ac070f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abhishek Sharma\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="K:\AndroidstudioProjects\LocateMyStore2\app\build\intermediates\pre-dexed\debug\core-3.2.0-db3867cb2cb4b54b50e332ff351b40710bff4541.jar" />
+    </item>
+
+</items>
