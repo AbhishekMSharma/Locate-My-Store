@@ -1,0 +1,2 @@
+# Locate-My-Store
+The project aimed to predict the products that a user may want to buy based on his current geographical location, demographics, and day of the week. Data mining techniques were also implemented to list physical stores based on the keywords a user provided. All data was stored on Microsoft Azure, and computations were done on the cloud for faster and efficient processing. The application was built for handheld devices, and a simple tool was developed and distributed to the shopkeepers of the city for inventory tracking purposes.
