@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.abhishekmsharma.locatemystore2.viewProducts">
+
+
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/app_toolbar" />
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        <TextView
+            android:id="@+id/catLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Category: "
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/app_toolbar"
+            android:gravity="center_vertical"
+            android:textSize="20dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="38dp"
+            android:layout_marginEnd="38dp" />
+
+        <Spinner
+            android:id="@+id/categoryDropDown"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:gravity="bottom"
+            android:layout_below="@+id/app_toolbar"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textAlignment="gravity">
+
+        </Spinner>
+
+        <Button
+            android:id="@+id/searchButton"
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:elevation="4dp"
+            android:text="GO"
+            android:layout_below="@+id/categoryDropDown"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="120dp"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/buttonbg"
+
+            android:layout_toLeftOf="@+id/categoryDropDown"
+            android:layout_alignLeft="@+id/catLabel"
+            android:layout_alignStart="@+id/catLabel" />
+
+
+
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/listView"
+            android:layout_below="@+id/searchButton"
+            android:layout_marginTop="15dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+
+
+
+
+
+

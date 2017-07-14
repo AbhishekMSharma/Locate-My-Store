@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.abhishekmsharma.locatemystore2.searchResults">
+
+    <include
+        android:id="@+id/app_toolbar"
+        layout="@layout/app_toolbar" />
+
+    <TextView
+        android:id="@+id/productTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Product Name"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="3dp"
+        android:gravity="center_vertical"
+        android:textSize="30dp"
+        android:layout_below = "@+id/app_toolbar" />
+
+    <TextView
+        android:id="@+id/productDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Product Description"
+        android:gravity="center_vertical"
+        android:textSize="13dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="3dp"
+        android:layout_below = "@+id/productTitle" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/cardList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/productDesc"
+        />
+</RelativeLayout>

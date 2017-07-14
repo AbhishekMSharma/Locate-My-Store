@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocateMyStore</string>
+    <string name="title_activity_main">LocateMyStore</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_aboutmenu">About LocateMyStore</string>
+    <string name="next">Next</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_search_results">Search Results</string>
+    <string name="title_activity_view_products">View Products</string>
+    <string name="title_activity_locationhistoryintent">Location History</string>
+
+</resources>
